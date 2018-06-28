@@ -1,0 +1,220 @@
+{
+  "markets": [
+    {
+      "id": 1,
+      "coordinates": {
+        "latitude": 51.444291,
+        "longitude": -0.143527
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/2016_May_Balham_Herbal_Haven_herbs.0f37de8c.fill-360x360.jpg",
+      "name": "Balham"
+    },
+    {
+      "id": 2,
+      "coordinates": {
+        "latitude": 51.465884,
+        "longitude": 0.007319
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/Blackheath_farmers_market_wide_300.2e16d0ba.fill-360x360.jpg",
+      "name": "Blackheath"
+    },
+    {
+      "id": 3,
+      "coordinates": {
+        "latitude": 51.522634,
+        "longitude": -0.131118
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/2014_bloomsbury_wide_of_market_200.2e16d0ba.fill-360x360.jpg",
+      "name": "Bloomsbury"
+    },
+    {
+      "id": 4,
+      "coordinates": {
+        "latitude": 51.509942,
+        "longitude": -0.323453
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/Ealing_Market_11_Feb_wide_3000_pix.2e16d0ba.fill-360x360.jpg",
+      "name": "Ealing"
+    },
+    {
+      "id": 5,
+      "coordinates": {
+        "latitude": 51.489359,
+        "longitude": -0.193713
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/EC_Wild_Co_winter_veg_landscape_Ra.2e16d0ba.fill-360x360.jpg",
+      "name": "Earls Court"
+    },
+    {
+      "id": 6,
+      "coordinates": {
+        "latitude": 51.532313,
+        "longitude": -0.109201
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/Islington_wide_welcome_table_sept_.e9a49903.fill-360x360.jpg",
+      "name": "Islington"
+    },
+    {
+      "id": 7,
+      "coordinates": {
+        "latitude": 51.502713,
+        "longitude": -0.089669
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/London_Bridge_Farmers_market_2017-.2e16d0ba.fill-360x360.jpg",
+      "name": "London Bridge"
+    },
+    {
+      "id": 8,
+      "coordinates": {
+        "latitude": 51.519094,
+        "longitude": -0.152664
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/2014_Marylebone_wide_shot_cropped.2e16d0ba.fill-360x360.jpg",
+      "name": "Marylebone"
+    },
+    {
+      "id": 9,
+      "coordinates": {
+        "latitude": 51.499849,
+        "longitude": -0.195513
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/Notting_Hill_fm_landscape_with_Che.2e16d0ba.fill-360x360.jpg",
+      "name": "Notting Hill"
+    },
+    {
+      "id": 10,
+      "coordinates": {
+        "latitude": 51.559564,
+        "longitude": -0.151622
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/20170325_122246.2e16d0ba.fill-360x360.jpg",
+      "name": "Parliament Hill"
+    },
+    {
+      "id": 11,
+      "coordinates": {
+        "latitude": 51.472031,
+        "longitude": -0.205149
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/Malcolm_Stone_Pippins_Orchard_PG_o.2e16d0ba.fill-360x360.jpg",
+      "name": "Parson's Green"
+    },
+    {
+      "id": 12,
+      "coordinates": {
+        "latitude": 51.490731,
+        "longitude": -0.152453
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/Pimlico_Rd_wide_2016_Nov_3500_pixe.2e16d0ba.fill-360x360.jpg",
+      "name": "Pimlico Road"
+    },
+    {
+      "id": 13,
+      "coordinates": {
+        "latitude": 51.536801,
+        "longitude": -0.205654
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/QP_Sept_2015_wide_of_market_2000_p.2e16d0ba.fill-360x360.jpg",
+      "name": "Queens Park"
+    },
+    {
+      "id": 14,
+      "coordinates": {
+        "latitude": 51.479098,
+        "longitude": -0.167649
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/Nutbourne_Market_June_10th-254.2e16d0ba.fill-360x360.jpg",
+      "name": "Ransome's Dock"
+    },
+    {
+      "id": 15,
+      "coordinates": {
+        "latitude": 51.493651,
+        "longitude": -0.176343
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/wide_South_Ken_2_2014_May_2000_pix.2e16d0ba.fill-360x360.jpg",
+      "name": "South Kensington"
+    },
+    {
+      "id": 16,
+      "coordinates": {
+        "latitude": 51.498243,
+        "longitude": -0.177388
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/South_Ken_Imperial_opening_Sept_20.0cd9b75d.fill-360x360.jpg",
+      "name": "South Kensington"
+    },
+    {
+      "id": 17,
+      "coordinates": {
+        "latitude": 51.544083,
+        "longitude": -0.173976
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/Swiss_Cottage_farmers_market_lands.2e16d0ba.fill-360x360.jpg",
+      "name": "Swiss Cottage"
+    },
+    {
+      "id": 18,
+      "coordinates": {
+        "latitude": 51.426041,
+        "longitude": -0.340064
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/Teddington_opening_day_wide.dcfe59aa.fill-360x360.jpg",
+      "name": "Teddington"
+    },
+    {
+      "id": 19,
+      "coordinates": {
+        "latitude": 51.446166,
+        "longitude": -0.330870
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/Twickenham_farmers_market_wide_151.2e16d0ba.fill-360x360.jpg",
+      "name": "Twickenham"
+    },
+    {
+      "id": 20,
+      "coordinates": {
+        "latitude": 51.582793,
+        "longitude": -0.023327
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/Walthamstow_wide_Wild_Country_orga.2e16d0ba.fill-360x360.jpg",
+      "name": "Walthamstow"
+    },
+    {
+      "id": 21,
+      "coordinates": {
+        "latitude": 51.548115,
+        "longitude": -0.191438
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/Five_ways_fruit_and_customers_crop.4650b99b.fill-360x360.jpg",
+      "name": "West Hampstead"
+    },
+    {
+      "id": 22,
+      "coordinates": {
+        "latitude": 51.456085,
+        "longitude": -0.198477
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/Witt_and_son_West_Hill_1542_pixels.813c27df.fill-360x360.jpg",
+      "name": "West Hill"
+    },
+    {
+      "id": 23,
+      "coordinates": {
+        "latitude": 51.500544,
+        "longitude": -0.119445
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/Westminster_stalls_and_crowd_wide.2e16d0ba.fill-360x360.jpg",
+      "name": "Westminster Bridge"
+    },
+    {
+      "id": 24,
+      "coordinates": {
+        "latitude": 51.439102,
+        "longitude": -0.195061
+      },
+      "image": "https://s3.eu-central-1.amazonaws.com/lfm-web-prod/images/Customers_and_herbs_Wimbledon_Sept.2e16d0ba.fill-360x360.jpg",
+      "name": "Wimbledon"
+    }
+  ]
+}
